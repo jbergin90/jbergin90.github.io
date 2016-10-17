@@ -1,6 +1,8 @@
 # Site settings
 title: James Bergin
-description: 'James Bergin'
+description: >
+  Welcome. I am a embedded software engineer working for a start-up company
+  that is changing the future of music creation.
 url: 'http://bergin.pro/'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -12,7 +14,9 @@ author:
   # twitter_username: joshgerdes
   # facebook_username: joshgerdes
   # github_username:  joshgerdes
-  linkedin_username:  jbergin90
+  linkedin_username:  jamespatrickbergin
+  pdf_resume: true
+  word_resume: false
 
 defaults:
   -
