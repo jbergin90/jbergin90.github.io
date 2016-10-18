@@ -18,6 +18,10 @@ author:
   pdf_resume: true
   word_resume: false
 
+links:
+  email: mailto:james@bergin.pro
+  linkedin_page: https://www.linkedin.com/in/jamespatrickbergin/en
+
 defaults:
   -
     scope:

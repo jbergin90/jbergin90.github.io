@@ -2,7 +2,8 @@
 title:  "a little more about me"
 layout: post
 ---
-You can find links to my professional social media and resume on the my [main page][main-page].
+You can find links to my professional social media and resume on my [main page][main-page].
+You can also find my contact information on my [contact page][contact-page].
 
 - I write embedded code, mostly in C. I can also code in other languages.
 - I lived most of my life in Brazil.
@@ -27,6 +28,7 @@ print_hi('Tom')
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help]. -->
 
 [main-page]:   http://www.bergin.pro
+[contact-page]: /contact.html
 [artiphon-page]: http://www.artiphon.com
 [webb-page]:   http://www.webb.com.br
 [fmc-page]:   http://www.fmctechnologies.com
