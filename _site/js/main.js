@@ -16,15 +16,19 @@ function doCoverResize(){
   }
 }
 
+function doOnResize(){
+  if ($('.panel-cover').hasClass('panel-cover--collapsed')){
+    $('.panel-main').css('width', '100%')
+    doCoverResize();
+  } else {
+    doResizing();
+  }
+}
+
 $(document).ready(function () {
 
   window.onresize = function(){
-    if ($('.panel-cover').hasClass('panel-cover--collapsed')){
-      $('.panel-main').css('width', '100%')
-      doCoverResize();
-    } else {
-      doResizing();
-    }
+    doOnResize();
   }
 
   $('a.blog-button').click(function (e) {
@@ -63,4 +67,6 @@ $(document).ready(function () {
     $('.navigation-wrapper').toggleClass('visible')
     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')
   })
+
+  doOnResize();
 })
