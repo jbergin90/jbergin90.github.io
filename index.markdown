@@ -4,7 +4,7 @@ layout: post
 ---
 You can find links to my professional social media and resume on the my [main page][main-page].
 
-- I write embedded code, mostly in C. And a variety of other languages.
+- I write embedded code, mostly in C. I can also code in other languages.
 - I lived most of my life in Brazil.
 - I work for a start-up, [Artiphon][artiphon-page], that is changing the future of music creation. *Touch sound*
 - I haven't always written code. I have worked in purchasing ([Webb][webb-page]), oil equipment manufacturing ([FMC Technologies][fmc-page]), and even drilling on an drilling rig ([Halliburton][halliburton-page]).
