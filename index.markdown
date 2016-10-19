@@ -6,9 +6,10 @@ You can find links to my professional social media and resume on my [main page][
 You can also find my contact information on my [contact page][contact-page].
 
 - I write embedded code, mostly in C. I can also code in other languages.
-- I lived most of my life in Brazil.
 - I work for a start-up, [Artiphon][artiphon-page], that is changing the future of music creation. *Touch sound*
 - I haven't always written code. I have worked in purchasing ([Webb][webb-page]), oil equipment manufacturing ([FMC Technologies][fmc-page]), and even drilling on an drilling rig ([Halliburton][halliburton-page]).
+- I lived most of my life in Brazil.
+- I am bilingual and a dual citizen.
 - I love music and play guitar and sing in my free time.
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.

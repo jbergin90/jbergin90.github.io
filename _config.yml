@@ -5,7 +5,7 @@ description: >
   that is changing the future of music creation.
 url: 'http://bergin.pro/'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-85981147-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
