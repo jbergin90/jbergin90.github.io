@@ -179,7 +179,7 @@ section:last-child {
 	}
 }
 
-@media all and (max-width: 601px) {
+@media screen and (max-width: 601px) {
 	#cv {
 		width: 95%;
 		margin: 10px auto;
@@ -213,7 +213,7 @@ section:last-child {
 	}
 }
 
-@media all and (max-width: 480px) {
+@media screen and (max-width: 480px) {
 	.mainDetails {
 		padding: 15px 15px;
 	}
@@ -243,6 +243,50 @@ section:last-child {
     #cv {
         width: 100%;
     }
+
+		p {
+			font-size: 0.8em;
+			line-height: 1.1em;
+		}
+
+		#name h1 {
+			font-size: 2.5em;
+			font-weight: 700;
+		}
+
+		#name h2 {
+			font-size: 2em;
+		}
+
+		#contactDetails ul {
+			font-size: 0.9em;
+		}
+
+		.sectionTitle, .sectionContent {
+			float: none;
+			width: 100%;
+		}
+
+		.sectionTitle h1 {
+			margin-left: -2px;
+			font-size: 1.1em;
+		}
+
+		.sectionContent h2 {
+			font-size: 1em;
+		}
+
+		.sectionContent ul{
+			font-size: 0.8em;
+		}
+
+		.subDetails {
+			font-size: 0.8em;
+		}
+
+		.keySkills {
+			font-size: 0.8em;
+		}
 }
 
 @-webkit-keyframes reset {
