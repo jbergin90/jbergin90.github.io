@@ -1,0 +1,240 @@
+
+---
+basics:
+  first_name: James
+  middle_name: Patrick
+  last_name: Bergin
+  role: Firmware / Embedded Systems Engineer
+  # picture: ''
+  email: james@bergin.pro
+  phone:
+    type: cell
+    name: "(646) 787-6773"
+    url: "tel: 6467876773"
+  website:
+    url: http://www.bergin.pro
+    name: www.bergin.pro
+  summary: "Firmware / Embedded Software Engineer with a bachelor\'s degree in Electrical Engineering with a varied background throughout industries including: consumer electronics, oil field services, oil field equipment manufacturing, and purchasing consulting."
+  location:
+    address_line_1: 1116 Delmas Ave
+    # address_line_2: 1116 Delmas Ave
+    city: Nashville
+    region: TN
+    countryCode: USA
+    postalCode: '37216'
+    # coordinates: ''
+  profiles:
+  - network: LinkedIn
+    username: jamespatrickbergin
+    url: https://www.linkedin.com/in/jamespatrickbergin/en
+work:
+  # ARTIPHON
+- company: Artiphon
+  company_summary: Music tech consumer electronics start-up company that is changing the future of music creation
+  position: Firmware / Embedded Software Engineer
+  # position_summary:
+  website:
+    url: http://www.artiphon.com
+    name: www.artiphon.com
+  startDate: '2015-04-01'
+  # endDate: '2014-01-01'
+  location:
+    address_line_1: 1305 Clinton Street
+    address_line_2: Suite 200
+    city: Nashville
+    region: TN
+    countryCode: USA
+    postalCode: '37203'
+    # coordinates: ''
+  highlights:
+  - summary: Engineer responsible for developing tested, reliable, and extensible embedded C software for the flagship product, a digital musical instrument with thousands of users / customers
+  - summary: Developed and deployed web-based configuration software bundle to be used with the INSTRUMENT 1
+  - summary: Developed sets of tools to be used with the INSTRUMENT1, an automated compile / build / deploy script and a set of factory quality assurance tests
+  - summary: "Experience interfacing with: codecs, amplifiers, EEPROMs, accelerometers, gyroscopes"
+  - summary: Developed production tests for Quality Control of production runs
+  - summary: Developed R&D software tools to explore limits and uncover possibilities of the hardware and prototype and test features
+  - summary: Experience with Scrum/Agile development and Git versioning
+  - summary: Compliance with EMC / EMI / CE / MFi
+  - summary: Fixed bugs in and added features to an iOS application in Objective C and Swift
+  - summary: Maintained
+  # HALLIBURTON
+- company: Halliburton
+  # company_summary: Music tech consumer electronics start-up company that is changing the future of music creation
+  position: Measurement While Drilling Field Engineer
+  # position_summary:
+  website:
+    url: http://www.halliburton.com
+    name: www.halliburton.com
+  startDate: '2014-10-01'
+  endDate: '2015-04-01'
+  location:
+    # address_line_1: 121 Champion Way
+    # address_line_2: Suite 110
+    # city: Canonsburg
+    # state: PA
+    region: Northeastern USA
+    # countryCode: USA
+    # postalCode: '15317'
+    # coordinates: ''
+  highlights:
+  - summary: "Performed on site Measurement While Drilling operations for directional wells in the Northeastern USA: set up and tear down of field equipment, use of tools to determine the position and direction of the well bore in real time, and collection of data on the properties of the formation for ongoing formation evaluation"
+# FMC Technologies
+- company: FMC Technologies
+#   company_summary: Music tech consumer electronics start-up company that is changing the future of music creation
+  position: Engineering Intern
+  # position_summary:
+  website:
+    url: http://www.fmcti.com
+    name: www.fmcti.com
+  startDate: '2011-08-01'
+  endDate: '2013-08-01'
+  location:
+    city: Rio de Janeiro
+    state: RJ
+    countryCode: Brazil
+  highlights:
+  - summary: "Conducted research regarding the technical and financial viability of a new subsea oil production and processing sensing product"
+  - summary: "Modeled parts and assemblies, and drew schematics in Solidworks and AutoCAD to be used in manufacturing"
+  - summary: "Conducted quality control inspections and warehouse admissions of critical supplies ranging from raw materials to fully-assembled components, succeeding in eliminating a longstanding backlog in both processes"
+  - summary: "Developed training materials, including a 3D computer animation for the assembly and operation of certain subsea equipment"
+  - summary: "Translated technical documents, including subsea equipment technical assembly instructions, material specifications, and testing procedures"
+  - summary: "Engaged in multiple training programs including engineering processes, use of various software, and equipment information"
+  - summary: "Participated in technical visits to various manufacturing, warehouse, and repair facilities"
+# - company: Webb
+#   company_summary: "A supply chain restructuring, procurement outsourcing, and logistics consulting company"
+#   position: Intern
+#   position_summary: "30 hours per week paid position"
+#   website:
+#     url: http://www.webb.com.br
+#     name: www.webb.com.br
+#   endDate: '2011-07-01'
+#   startDate: '2010-12-01'
+#   location:
+#     city: Rio de Janeiro
+#     state: RJ
+#     countryCode: Brazil
+#   highlights:
+#   - summary: "Performed optimization of processes for sourcing and procurement of services and supplies for a major shopping mall holding company"
+#   - summary: "Conducted valuation of installed network assets for a multinational telecommunications service provider"
+#
+# EDUCATION
+#
+education:
+- institution: "Pontifícia Universidade Católica do Rio de Janeiro (PUC_RIO)"
+  summary: "Graduate of highly regarded Brazilian university, ranked highest among private universities and 7th overall in Brazil by the QS World University Rankings and whose electrical engineering program is unsurpassed as determined by the Brazilian Ministry of Education"
+  area: "Electrical and Electronics Engineering with emphasis in Electronics"
+  studyType: "Bachelor\'s degree"
+  startDate: '2008-01-01'
+  endDate: '2014-01-01'
+  website:
+    url: http://www.puc-rio.br
+    name: www.puc-rio.br
+  highlights:
+  - summary: "Designed and prototyped a MIDI (Musical Instrument Digital Interface) controller as a graduation project"
+  - summary: "Coursework in Microcontrollers and Embedded Systems, Field-programmable Gate Arrays, Control and Servomechanisms, Analog and Digital Communications, Computer Architecture, Analog Circuits, Power Electronics, and Signals and Systems"
+  - summary: "Participated in workshop covering printed circuit board design and manufacturing techniques"
+  - summary: "Honored for Academic Distinction in Introduction to Engineering course for best group project among all freshman engineering students"
+# - institution: "Escola Americana do Rio de Janeiro"
+#   summary: "Earned higher, middle, and lower education in an English-speaking international institution with a United States college-preparatory curriculum"
+#   studyType: "Dual American and Brazilian High School diplomas"
+#   startDate: '1996-07-01'
+#   endDate: '2008-07-01'
+#   website:
+#     url: http://www.earj.com.br
+#     name: www.earj.com.br
+#   highlights:
+#   - summary: "Awarded best student in British and American Literature courses"
+#   - summary: "Served as a member of a knowledge bowl team, and awarded 3rd place in a South American competition"
+#
+# Laguages
+#
+languages:
+- name: English
+  level: Native
+- name: Portuguese
+  level: Native
+# volunteer:
+# - organization: Organization
+#   position: Volunteer
+#   website: http://organization.com/
+#   startDate: '2012-01-01'
+#   endDate: '2013-01-01'
+#   summary: Description...
+#   highlights:
+#   - Awarded 'Volunteer of the Month'
+# awards:
+# - title: Award
+#   date: '2014-11-01'
+#   awarder: Company
+#   summary: There is no spoon.
+# publications:
+# - name: Publication
+#   publisher: Company
+#   releaseDate: '2014-10-01'
+#   website: http://publication.com
+#   summary: Description...
+skills:
+  - name: Development
+    keywords:
+    - Embedded Software
+    - Microcontrollers
+    - Embedded Systems
+    - Test Driven Development ( TDD )
+    - Sensors
+  - name: Programming
+    keywords:
+    # - Firmware
+    # - Embedded C
+    # - C
+    # - Objective-C
+    # - Swift
+    - Python
+    - Ruby
+    - Assembly
+    - JavaScript
+    - JSON
+    - React
+    - Redux
+    - Node.js
+    - JIRA
+    - Scrum
+    - Agile
+    - HTML
+    - CSS
+    - Google Cloud API
+  - name: Oil and Gas
+    keywords:
+    - Measurement / Logging While Drilling ( MWD / LWD )
+    - Diretional Drilling
+    - Field Engineering
+    - Manufacturing
+  - name: General
+    keywords:
+    - Engineering
+    - Electronic Engineering
+    - Electronics Engineering
+    - SolidWorks
+    - AutoCAD
+    - Matlab
+    - CAD
+    - SAP
+    - Debugging
+    - Logic Analyzer
+    - Testing
+    # - jQuery
+    # - lodash
+
+# - name: Web Development
+#   level: Master
+#   keywords:
+#   - HTML
+#   - CSS
+#   - Javascript
+# interests:
+# - name: Wildlife
+#   keywords:
+#   - Ferrets
+#   - Unicorns
+# references:
+# - name: Jane Doe
+#   reference: Reference...

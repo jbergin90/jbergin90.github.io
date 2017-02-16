@@ -1,0 +1,537 @@
+---
+basics:
+  first_name: James
+  middle_name: Patrick
+  last_name: Bergin
+  label: Firmware/Embedded Systems Engineer
+  picture: ''
+  email: james@bergin.pro
+  phone: "(646) 787-6773"
+  website: http://www.bergin.pro
+  summary: "Firmware/Embedded Software Engineer with a bachelor\'s degree in Electrical Engineering with a varied background throughout industries including: consumer electronics, oil field services, oil field equipment manufacturing, and purchasing consulting."
+  location:
+    address_line_1: 1116 Delmas Ave
+    # address_line_2: 1116 Delmas Ave
+    city: Nashville
+    region: TN
+    countryCode: USA
+    postalCode: '37216'
+    # coordinates: ''
+  profiles:
+  - network: LinkedIn
+    username: jamespatrickbergin
+    url: https://www.linkedin.com/in/jamespatrickbergin/en
+work:
+  # ARTIPHON
+- company: Artiphon
+  company_summary: Music tech consumer electronics start-up company that is changing the future of music creation
+  position: Firmware/Embedded Software Engineer
+  # position_summary:
+  website: http://www.artiphon.com
+  startDate: '2015-04-01'
+  # endDate: '2014-01-01'
+  location:
+    address_line_1: 1305 Clinton Street
+    address_line_2: Suite 200
+    city: Nashville
+    region: TN
+    countryCode: USA
+    postalCode: '37203'
+    # coordinates: ''
+  highlights:
+  - summary: Engineer responsible for developing embedded software for the flagship product, a digital musical instrument
+    # website: http://www.artiphon.com
+    # startDate: '2015-04-01'
+    # endDate: '2014-01-01'
+    # location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+  - summary: Developed sets of tools to be used with the INSTRUMENT1, an automated compile/build and publishing script and a set of factory quality assurance tests
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Experience interfacing with: codecs, amplifiers, EEPROMs, accelerometers, gyroscopes
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Experience with Scrum/Agile development and Git versioning
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Compliance with EMC / EMI / CE / MFi
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   # HALLIBURTON
+# - company: Halliburton
+#   # company_summary: Music tech consumer electronics start-up company that is changing the future of music creation
+#   position: Measurement While Drilling Field Engineer
+#   # position_summary:
+#   website: http://www.halliburton.com
+#   startDate: '2014-10-01'
+#   endDate: '2015-04-01'
+#   location:
+#     # address_line_1: 1305 Clinton Street
+#     # address_line_2: Suite 200
+#     # city: Nashville
+#     # region: TN
+#     # countryCode: USA
+#     # postalCode: '37203'
+#     # coordinates: ''
+#   highlights:
+#   - summary: Engineer responsible for developing embedded software for the flagship product, a digital musical instrument
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Developed sets of tools to be used with the INSTRUMENT1, an automated compile/build and publishing script and a set of factory quality assurance tests
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Experience interfacing with: codecs, amplifiers, EEPROMs, accelerometers, gyroscopes
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Experience with Scrum/Agile development and Git versioning
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Compliance with EMC / EMI / CE / MFi
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+# - company: Artiphon
+#   company_summary: Music tech consumer electronics start-up company that is changing the future of music creation
+#   position: Firmware/Embedded Software Engineer
+#   # position_summary:
+#   website: http://www.artiphon.com
+#   startDate: '2015-04-01'
+#   # endDate: '2014-01-01'
+#   location:
+#     address_line_1: 1305 Clinton Street
+#     address_line_2: Suite 200
+#     city: Nashville
+#     region: TN
+#     countryCode: USA
+#     postalCode: '37203'
+#     # coordinates: ''
+#   highlights:
+#   - summary: Engineer responsible for developing embedded software for the flagship product, a digital musical instrument
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Developed sets of tools to be used with the INSTRUMENT1, an automated compile/build and publishing script and a set of factory quality assurance tests
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Experience interfacing with: codecs, amplifiers, EEPROMs, accelerometers, gyroscopes
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Experience with Scrum/Agile development and Git versioning
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Compliance with EMC / EMI / CE / MFi
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+# - company: Artiphon
+#   company_summary: Music tech consumer electronics start-up company that is changing the future of music creation
+#   position: Firmware/Embedded Software Engineer
+#   # position_summary:
+#   website: http://www.artiphon.com
+#   startDate: '2015-04-01'
+#   # endDate: '2014-01-01'
+#   location:
+#     address_line_1: 1305 Clinton Street
+#     address_line_2: Suite 200
+#     city: Nashville
+#     region: TN
+#     countryCode: USA
+#     postalCode: '37203'
+#     # coordinates: ''
+#   highlights:
+#   - summary: Engineer responsible for developing embedded software for the flagship product, a digital musical instrument
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Developed sets of tools to be used with the INSTRUMENT1, an automated compile/build and publishing script and a set of factory quality assurance tests
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Experience interfacing with: codecs, amplifiers, EEPROMs, accelerometers, gyroscopes
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Experience with Scrum/Agile development and Git versioning
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+#   - summary: Compliance with EMC / EMI / CE / MFi
+#     website: http://www.artiphon.com
+#     startDate: '2015-04-01'
+#     endDate: '2014-01-01'
+#     location:
+#       address_line_1: 1305 Clinton Street
+#       address_line_2: Suite 200
+#       city: Nashville
+#       region: TN
+#       countryCode: USA
+#       postalCode: '37203'
+#       coordinates: ''
+#     keywords:
+#       - C
+#       - Embedded C
+#       - JSON
+#       - Javascript
+#       - YAML
+#       - Objective-C
+#       - Test Driven Development
+# volunteer:
+# - organization: Organization
+#   position: Volunteer
+#   website: http://organization.com/
+#   startDate: '2012-01-01'
+#   endDate: '2013-01-01'
+#   summary: Description...
+#   highlights:
+#   - Awarded 'Volunteer of the Month'
+# education:
+# - institution: University
+#   area: Software Development
+#   studyType: Bachelor
+#   startDate: '2011-01-01'
+#   endDate: '2013-01-01'
+#   gpa: '4.0'
+#   courses:
+#   - DB1101 - Basic SQL
+# awards:
+# - title: Award
+#   date: '2014-11-01'
+#   awarder: Company
+#   summary: There is no spoon.
+# publications:
+# - name: Publication
+#   publisher: Company
+#   releaseDate: '2014-10-01'
+#   website: http://publication.com
+#   summary: Description...
+# skills:
+# - name: Web Development
+#   level: Master
+#   keywords:
+#   - HTML
+#   - CSS
+#   - Javascript
+# languages:
+# - name: English
+#   level: Native speaker
+# interests:
+# - name: Wildlife
+#   keywords:
+#   - Ferrets
+#   - Unicorns
+# references:
+# - name: Jane Doe
+#   reference: Reference...

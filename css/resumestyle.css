@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
+html, body {background: #181818; font-family: 'Arial', helvetica, arial, sans-serif; font-size: 14px; color: #222;}
 
 .clear {clear: both;}
 
@@ -118,12 +118,12 @@ section:last-child {
 
 .sectionTitle {
 	float: left;
-	width: 25%;
+	width: 15%;
 }
 
 .sectionContent {
 	float: right;
-	width: 72.5%;
+	width: 82.5%;
 }
 
 .sectionContent article{
