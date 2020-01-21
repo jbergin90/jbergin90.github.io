@@ -4,7 +4,7 @@ basics:
   first_name: James
   middle_name: Patrick
   last_name: Bergin
-  role: Firmware / Embedded Systems Engineer
+  role: Firmware / Embedded Software Engineer
   # picture: ''
   email: james@bergin.pro
   phone:
@@ -14,9 +14,9 @@ basics:
   website:
     url: http://www.bergin.pro
     name: www.bergin.pro
-  summary: "Firmware / Embedded Software Engineer with a bachelor\'s degree in Electrical Engineering with a varied background throughout industries including: consumer electronics, oil field services, oil field equipment manufacturing, and purchasing consulting."
+  summary: "Firmware / Embedded Software Engineer with a bachelor's degree in Electrical Engineering with a varied background throughout industries including: consumer electronics, oil field services, oil field equipment manufacturing, and purchasing consulting."
   location:
-    address_line_1: 1116 Delmas Ave
+    address_line_1: 2320 Riverside Dr
     # address_line_2: 1116 Delmas Ave
     city: Nashville
     region: TN
@@ -28,6 +28,30 @@ basics:
     username: jamespatrickbergin
     url: https://www.linkedin.com/in/jamespatrickbergin/en
 work:
+# PAUL C BUFF
+- company: Paul C Buff Inc
+  company_summary: A leading designer and manufacturer of high energy studio flash systems.
+  position: Embedded Software Engineer
+  # position_summary:
+  website:
+    url: http://www.paulcbuff.com
+    name: www.paulcbuff.com
+  startDate: '2017-05-01'
+  # endDate: '2014-01-01'
+  location:
+    address_line_1: 2725 Bransford Ave
+    # address_line_2: 
+    city: Nashville
+    region: TN
+    countryCode: USA
+    postalCode: '37204'
+    # coordinates: ''
+  highlights:
+  - summary: "Integral contributor to product line innovation and R&D"
+  - summary: "Sole firmware engineer responsible for architecting and implementing embedded software for flagship product pair: the flash unit LINK and its accompanying remote trigger HUB"
+  - summary: "Experience with: 2.4 GHz radio communications (including WiFi, Bluetooth, and proprietary protocol), Real Time Operating Systems, timing critical software"
+  - summary: "Developed firmware for the CyberSense: a wireless radio remote for triggering and controlling Paul C. Buff flash units"
+  - summary: "Improved various current products clearing a backlog of known issues"
   # ARTIPHON
 - company: Artiphon
   company_summary: Music tech consumer electronics start-up company that is changing the future of music creation
@@ -37,7 +61,7 @@ work:
     url: http://www.artiphon.com
     name: www.artiphon.com
   startDate: '2015-04-01'
-  # endDate: '2014-01-01'
+  endDate: '2017-05-01'
   location:
     address_line_1: 1305 Clinton Street
     address_line_2: Suite 200
@@ -56,7 +80,7 @@ work:
   - summary: Experience with Scrum/Agile development and Git versioning
   - summary: Compliance with EMC / EMI / CE / MFi
   - summary: Fixed bugs in and added features to an iOS application in Objective C and Swift
-  - summary: Maintained
+  - summary: "Continuing support (after May 2017) of the INSTRUMENT1 including new feature updates, bug fixes, recertification testing"
   # HALLIBURTON
 - company: Halliburton
   # company_summary: Music tech consumer electronics start-up company that is changing the future of music creation
@@ -123,7 +147,7 @@ education:
 - institution: "Pontifícia Universidade Católica do Rio de Janeiro (PUC_RIO)"
   summary: "Graduate of highly regarded Brazilian university, ranked highest among private universities and 7th overall in Brazil by the QS World University Rankings and whose electrical engineering program is unsurpassed as determined by the Brazilian Ministry of Education"
   area: "Electrical and Electronics Engineering with emphasis in Electronics"
-  studyType: "Bachelor\'s degree"
+  studyType: "Bachelor's degree"
   startDate: '2008-01-01'
   endDate: '2014-01-01'
   website:
@@ -176,51 +200,57 @@ languages:
 skills:
   - name: Development
     keywords:
-    - Embedded Software
-    - Microcontrollers
-    - Embedded Systems
-    - Test Driven Development ( TDD )
+    - In-code documentation (Doxygen) 
+    - Test Driven Development
     - Sensors
+    - Oscilloscopes, Logic Analyzers, DMM
+    - Serial debugging
+    - Percepio Tracealyzer
+    - Limited experience with UML
   - name: Programming
     keywords:
     # - Firmware
-    # - Embedded C
+    - Embedded C / C++
+    - Unit test framewoks
+    - RTOS
     # - C
     # - Objective-C
     # - Swift
-    - Python
-    - Ruby
+    # - Python
+    # - Ruby
     - Assembly
-    - JavaScript
-    - JSON
-    - React
-    - Redux
-    - Node.js
+    # - React
+    # - Redux
+    # - Node.js
     - JIRA
-    - Scrum
-    - Agile
-    - HTML
-    - CSS
-    - Google Cloud API
-  - name: Oil and Gas
-    keywords:
-    - Measurement / Logging While Drilling ( MWD / LWD )
-    - Diretional Drilling
-    - Field Engineering
-    - Manufacturing
-  - name: General
-    keywords:
-    - Engineering
-    - Electronic Engineering
-    - Electronics Engineering
-    - SolidWorks
-    - AutoCAD
-    - Matlab
-    - CAD
-    - SAP
-    - Debugging
-    - Logic Analyzer
-    - Testing
+    - Scrum / Agile
+    - HTML / CSS
+    - JavaScript / Ruby
+    # - JSON
+    # - YAML
+    # - Google Cloud API
+    
+  # - name: Oil and Gas
+  #   keywords:
+  #   - Measurement / Logging While Drilling ( MWD / LWD )
+  #   - Diretional Drilling
+  #   - Field Engineering
+  #   - Manufacturing
+  # - name: General
+  #   keywords:
+  #   - Bluetooth
+  #   - WiFi
+    # - Engineering
+    # - Electronic Engineering
+    # - Electronics Engineering
+    # - SolidWorks
+    # - AutoCAD
+    # - Matlab
+    # - CAD
+    # - SAP
+    # - Debugging
+    # - Logic Analyzer
+    # - Testing
     # - jQuery
     # - lodash
 

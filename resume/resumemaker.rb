@@ -1,6 +1,7 @@
 require 'yaml'
 # require 'json'
 require 'pp'
+require 'date'
 
 input_file = File.read("./yamlresume.yml")
 @input_yaml = YAML.load(input_file)
