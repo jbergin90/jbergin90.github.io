@@ -5,8 +5,9 @@ layout: post
 You can find links to my professional social media and resume on my [main page][main-page].
 You can also find my contact information on my [contact page][contact-page].
 
-- I write embedded code, mostly in C. I can also code in other languages.
-- I work for a start-up, [Artiphon][artiphon-page], that is changing the future of music creation with an innovative hardware product.
+- I write embedded code in C / C++. I can also code in other languages.
+- I work for a leading designer / manufacturer of flash photography strobes and accessories, [Paul C Buff][paulcbuff-page].
+- I helped change the way we create music at [Artiphon][artiphon-page], with an innovative hardware product that broke Kickstarter records.
 - I haven't always written code. I have worked in purchasing ([Webb][webb-page]), oil equipment manufacturing ([FMC Technologies][fmc-page]), and even drilling on an drilling rig ([Halliburton][halliburton-page]).
 - I lived most of my life in Brazil.
 - I am bilingual and a dual citizen.
@@ -34,3 +35,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [webb-page]:   http://www.webb.com.br
 [fmc-page]:   http://www.fmctechnologies.com
 [halliburton-page]:   http://www.halliburton.com
+[paulcbuff-page]: http://www.paulcbuff.com
